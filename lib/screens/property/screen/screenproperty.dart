@@ -19,16 +19,11 @@ class ScreenProperty extends StatelessWidget {
         ),
 
         // TextButton with down arrow
-        title: TextButton.icon(
-          onPressed: () {},
-          label: Text(
-            'User',
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 15,
-            ),
-          ),
-          icon: Icon(Icons.keyboard_arrow_down, color: Colors.white),
+        title: Row(
+          children: [
+            Text('User'),
+            Icon(Icons.keyboard_arrow_down)
+          ],
         ),
       ),
       body: SafeArea(
