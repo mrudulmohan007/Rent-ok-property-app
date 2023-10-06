@@ -35,6 +35,7 @@ class BottomNavBar extends StatelessWidget {
           label: 'Money',
         ),
         BottomNavigationBarItem(
+
           icon: Icon(
             Icons.add,
           ),
