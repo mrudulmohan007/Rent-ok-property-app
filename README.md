@@ -1,6 +1,6 @@
 # rental_ok_app
 
-A new Flutter project.
+An app for owners to manage the tenants in the flat/apartment.
 
 ## Getting Started
 
