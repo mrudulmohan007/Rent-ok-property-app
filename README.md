@@ -2,7 +2,7 @@
 
 An app for owners to manage the tenants in the flat/apartment.
 
-## Getting Started
+## Getting Started--
 
 This project is a starting point for a Flutter application.
 
